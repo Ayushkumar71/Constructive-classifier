@@ -1,0 +1,6 @@
+pandas
+pickle
+streamlit
+spacy
+nltk
+symspellpy       
